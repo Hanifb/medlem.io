@@ -12,7 +12,9 @@ Alla buggar och fel du hittar kan du rapportera på länken nedan, skriv gärna 
 Använd gärna våra testkort så du slipper fylla i dina egna uppgifter:
 
 VISA SVERIGE | 4000 0075 2000 0008  | 123 | 12/28
+
 AMEX         | 3782 8224 6310 005   | 123 | 12/28
+
 MASTERCARD   | 5555 5555 5555 4444  | 123 | 12/28
 
 En fullständig lista på kreditkort
