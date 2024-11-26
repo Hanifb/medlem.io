@@ -1,10 +1,11 @@
 Medlem.io
 ========
-Medlem.io buggtestning
-
 Hej, vad kul att du vill hjälpa oss att buggtesta Medlem.io
 
 Sajten hittar du på [https://medlem.io](https://medlem.io).
+
+Alla buggar och fel du hittar kan du rapportera här:
+[https://github.com/Hanifb/medlem.io/issues](https://github.com/Hanifb/medlem.io/issues) 
 
 ## Betalkort
 
