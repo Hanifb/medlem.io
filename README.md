@@ -4,7 +4,7 @@ Hej, vad kul att du vill hjälpa oss att buggtesta Medlem.io
 
 Sajten hittar du på [https://medlem.io](https://medlem.io).
 
-Alla buggar och fel du hittar kan du rapportera på länken nedan, skriv gärna vilken användare du varit inloggad med och var så detaljerad som möjligt.
+Alla buggar och förslag på förbättrningar du hittar kan du rapportera på länken nedan (skriv gärna vilken användare du varit inloggad med och var så detaljerad som möjligt vid rapport av bugg).
 [https://github.com/Hanifb/medlem.io/issues](https://github.com/Hanifb/medlem.io/issues) 
 
 ## Betalkort
