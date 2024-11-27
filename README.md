@@ -19,3 +19,7 @@ MASTERCARD   | 5555 5555 5555 4444  | 123 | 12/28
 
 En fullständig lista på kreditkort
 https://docs.stripe.com/testing#regulatory-cards
+
+## Underhåll
+
+På nätterna kan tjänsten ha ett kort avbrott (ca 10 min) för uppdatering av buggfixar osv.
